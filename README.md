@@ -1,2 +1,2 @@
-# Sales_Data-Analysis_MS-Excel
+# Sales_Data-Analyst_MS-Excel
 Melakukan analisis data penjualan menggunakan Ms. Excel serta membuat dashboard berdasarkan hasil analisis
